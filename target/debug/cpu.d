@@ -1,1 +1,1 @@
-/Users/akats/Developer/raytracer/target/debug/cpu: /Users/akats/Developer/raytracer/cpu/src/../../shaders/main.wgsl /Users/akats/Developer/raytracer/cpu/src/main.rs /Users/akats/Developer/raytracer/cpu/src/obj_parser.rs
+/Users/akats/Developer/raytracer/target/debug/cpu: /Users/akats/Developer/raytracer/cpu/src/../../shaders/main.wgsl /Users/akats/Developer/raytracer/cpu/src/gpu_converter.rs /Users/akats/Developer/raytracer/cpu/src/main.rs /Users/akats/Developer/raytracer/cpu/src/obj_parser.rs
